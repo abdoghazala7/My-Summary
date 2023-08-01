@@ -9,7 +9,7 @@ This is a repository for some of famous python libraries that i learned.
 >- Numpy (contains the most function )
 >
 >
->- Matplotlib basics (focused on the visualizations that i use frequently)
+>- Matplotlib basics (focused on the visualizations that i use frequently only (short notebook))
 >
 > 
 >- Pandas ( Using some functions on a titanic's dataset )
