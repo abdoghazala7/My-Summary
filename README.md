@@ -22,3 +22,6 @@ This is a repository for some of famous python libraries that i learned.
 >
 >
 >- Web-Scraping (I used requests and BeautifulSoup in this notebook)
+>
+>
+>- Seaborn
