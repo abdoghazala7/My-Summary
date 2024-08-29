@@ -28,3 +28,13 @@ This is a repository for some of famous python libraries that i learned.
 >
 >
 >- Keras
+>
+>
+>- Pytorch
+>
+>
+>- Flask_deployment
+>  بب
+>ييبب
+>- يسسييسي
+
