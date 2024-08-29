@@ -34,7 +34,3 @@ This is a repository for some of famous python libraries that i learned.
 >
 >
 >- Flask_deployment
->  بب
->ييبب
->- يسسييسي
-
